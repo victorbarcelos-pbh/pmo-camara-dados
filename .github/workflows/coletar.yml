@@ -1,0 +1,42 @@
+name: Coletar projetos de lei (CMBH)
+
+on:
+  schedule:
+    - cron: "0 9 1,2,15,16 * *"   # 6h em Brasília, dias 1, 2, 15 e 16
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coletar
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Testes do leitor (amostras reais)
+        run: python -m pytest -q testes
+      - name: Coletar na CMBH
+        env:
+          # Opcional: sem a chave, o resumo por IA é pulado e a coleta segue.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODELO: gemini-3.8-flash
+          GEMINI_MODELO_RESERVA: gemini-pro-latest
+        run: python coletar.py
+      - name: Publicar se mudou
+        run: |
+          git config user.name "agente-camara"
+          git config user.email "agente-camara@users.noreply.github.com"
+          git add dados/projetos-de-lei.json
+          if git diff --cached --quiet; then echo "Sem mudança."; exit 0; fi
+          git commit -m "dados: coleta CMBH $(date -u +%Y-%m-%d)"
+          git push
