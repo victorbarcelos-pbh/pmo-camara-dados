@@ -192,13 +192,25 @@ def montar(item: ItemBusca, ficha: Ficha) -> dict:
 # ---------------------------------------------------------------- HTTP
 
 class Cliente:
-    """Sessão com a CMBH: token, ritmo de 1 req/s e repetição com espera crescente."""
+    """
+    Sessão com a CMBH: token, ritmo lento e repetição com espera longa.
 
-    def __init__(self, pausa: float = 2.0, tentativas: int = 5, sessao: requests.Session | None = None):
+    A CMBH bloqueia o IP (a conexão deixa de abrir) quando recebe requisições
+    demais em pouco tempo (visto em 14/11/2026, local e no runner do GitHub).
+    Por isso a pausa padrão é longa e, quando a conexão falha, a espera é de
+    minutos, não segundos. O log com horário de cada requisição serve para
+    medir o limite.
+    """
+
+    def __init__(self, pausa: float = 8.0, tentativas: int = 4, espera_falha: float = 90.0,
+                 sessao: requests.Session | None = None, log=print):
         self.s = sessao or requests.Session()
         self.s.headers["User-Agent"] = USER_AGENT
-        self.pausa, self.tentativas, self.codex = pausa, tentativas, None
+        self.pausa, self.tentativas, self.espera_falha, self.codex = pausa, tentativas, espera_falha, None
+        self.log = log
+        self.n = 0
         self._ultimo = 0.0
+        self._inicio = time.monotonic()
 
     def _ritmo(self):
         espera = self.pausa - (time.monotonic() - self._ultimo)
@@ -210,16 +222,20 @@ class Cliente:
         erro: Exception | None = None
         for n in range(self.tentativas):
             self._ritmo()
+            self.n += 1
+            t0 = time.monotonic()
             try:
-                r = self.s.request(metodo, url, timeout=(15, 60), **kw)
+                r = self.s.request(metodo, url, timeout=(20, 90), **kw)
                 if r.status_code >= 500 or r.status_code == 429:
                     raise ErroColeta(f"HTTP {r.status_code}")
                 r.raise_for_status()
                 r.encoding = r.encoding or "utf-8"
+                self.log(f"  req {self.n:3d} +{time.monotonic() - self._inicio:6.0f}s {metodo} {url.rsplit('/', 1)[-1]} -> {r.status_code} em {time.monotonic() - t0:.1f}s")
                 return r
             except (requests.RequestException, ErroColeta) as e:
                 erro = e
-                time.sleep(min(60, 5 * 2 ** n))
+                self.log(f"  req {self.n:3d} +{time.monotonic() - self._inicio:6.0f}s {metodo} {url.rsplit('/', 1)[-1]} FALHOU ({type(e).__name__}); espera {self.espera_falha * (n + 1):.0f}s")
+                time.sleep(self.espera_falha * (n + 1))
         raise ErroColeta(f"{url}: {erro}")
 
     def abrir(self):
