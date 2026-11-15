@@ -77,3 +77,11 @@ def test_validacao():
     assert validar(_dados(0), _dados(28))  # vazio
     assert validar(_dados(10), _dados(28))  # menos da metade
     assert validar(_dados(20, erros=6), None)  # mais de 20% de fichas com erro
+
+
+def test_validacao_lei_sem_fase_passa():
+    d = _dados(28)
+    d["projetos"] += [{"idCamara": f"c{i}", "ementa": "x", "chave": f"PL {i}/2024", "faseAtual": None, "emTramitacao": False} for i in range(12)]
+    assert validar(d, None) == []
+    d["projetos"][0]["faseAtual"] = None  # em tramitação sem fase: conta
+    assert validar(d, None) == []  # 1 de 40 não passa de 20%

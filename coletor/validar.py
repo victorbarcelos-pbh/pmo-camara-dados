@@ -1,7 +1,9 @@
 """Coleta suspeita não substitui a última boa (RF08 do SDD)."""
 from __future__ import annotations
 
-OBRIGATORIOS = ("idCamara", "chave", "ementa", "faseAtual")
+OBRIGATORIOS = ("idCamara", "chave", "ementa")
+# Só quem tramita tem fase; o que já virou lei ou foi arquivado não tem.
+OBRIGATORIOS_TRAMITANDO = ("faseAtual",)
 
 
 def validar(novo: dict, anterior: dict | None) -> list[str]:
@@ -20,7 +22,8 @@ def validar(novo: dict, anterior: dict | None) -> list[str]:
     erros = len(novo.get("erros", []))
     if erros and erros > 0.2 * (fichas + erros):
         motivos.append(f"{erros} fichas com erro de leitura (mais de 20%)")
-    sem = [p.get("chave", "?") for p in novo.get("projetos", []) if any(not p.get(c) for c in OBRIGATORIOS)]
+    sem = [p.get("chave", "?") for p in novo.get("projetos", [])
+           if any(not p.get(c) for c in OBRIGATORIOS) or (p.get("emTramitacao") and any(not p.get(c) for c in OBRIGATORIOS_TRAMITANDO))]
     if sem and len(sem) > 0.2 * max(fichas, 1):
         motivos.append(f"{len(sem)} PLs sem campo obrigatório: {', '.join(sem[:5])}")
     return motivos
