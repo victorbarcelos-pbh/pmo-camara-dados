@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "geradoEm": "2026-11-15T02:32:12Z",
+ "geradoEm": "2026-11-16T19:37:01Z",
  "fonte": "https://www.cmbh.mg.gov.br",
  "totais": {
   "tramitando": 28,
@@ -383,7 +383,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-12-04",
+   "prazoComissao": "2026-12-16",
    "quorum": "2/3 dos membros da Câmara (28)",
    "emendas": "Não há",
    "operacaoCredito": false,
@@ -462,9 +462,15 @@
      "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
      "documento": "Comissão de Meio Ambiente - Relatoria: vereador Wanderley Porto - Parecer inicial",
      "data": "2026-11-13"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "documento": "Comissão de Meio Ambiente - Vereadora Luiza Dulci - Aprovação da proposta de diligência - Primeiro turno",
+     "data": "2026-11-16"
     }
    ],
-   "assinaturaEventos": "5bb44b028136481d61b0819330db08c8d873100c",
+   "assinaturaEventos": "dae65f2897e3312977fb2935f431c291f3df68e4",
    "emTramitacao": true
   },
   {
@@ -512,9 +518,15 @@
      "orgao": "Comissão de Legislação e Justiça",
      "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner Augusto - Primeiro turno",
      "data": "2026-10-13"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Parecer inicial",
+     "data": "2026-11-16"
     }
    ],
-   "assinaturaEventos": "c7d388169899fe8791871d667b6465f8e0af9380",
+   "assinaturaEventos": "a276fec1c449b52c56757562ee3d2885fac70aaf",
    "emTramitacao": true
   },
   {
@@ -684,9 +696,15 @@
      "orgao": "Comissão de Legislação e Justiça",
      "documento": "Comissão de Legislação e Justiça - Retorno de diligência à relatoria - Primeiro turno",
      "data": "2026-11-09"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Parecer inicial",
+     "data": "2026-11-16"
     }
    ],
-   "assinaturaEventos": "190e7791a8a2ff7f041d473a5a35c3f486e818a7",
+   "assinaturaEventos": "27b9948937c7d12e72a441f47958f2d0709a0898",
    "emTramitacao": true
   },
   {
@@ -703,7 +721,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-10",
+   "prazoComissao": "2026-12-10",
    "quorum": "maioria dos presentes",
    "emendas": "Não há",
    "operacaoCredito": false,
@@ -1919,9 +1937,9 @@
    "publicadoEm": "2026-03-06",
    "estado": "TRAMITANDO",
    "situacao": "Em redação final",
-   "comissaoAtual": null,
+   "comissaoAtual": "Comissão de Legislação e Justiça",
    "faseAtual": "Redação Final",
-   "prazoComissao": "2026-12-10",
+   "prazoComissao": "2026-12-11",
    "quorum": "2/3 dos membros da Câmara (28)",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -2054,9 +2072,15 @@
      "orgao": null,
      "documento": "Decisão e ocorrências: aprovado o projeto. Prejudicada a emenda nº 1. Segundo turno",
      "data": "2026-11-09"
+    },
+    {
+     "fase": "Redação Final",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner Augusto - Redação final",
+     "data": "2026-11-16"
     }
    ],
-   "assinaturaEventos": "9098510603601b018bf0d29f4e0529ed4e7a834b",
+   "assinaturaEventos": "181cd82c1daf9d16e723f88c53e17a53c728c388",
    "emTramitacao": true
   },
   {
@@ -2071,9 +2095,9 @@
    "publicadoEm": "2026-03-03",
    "estado": "TRAMITANDO",
    "situacao": "Em redação final",
-   "comissaoAtual": null,
+   "comissaoAtual": "Comissão de Legislação e Justiça",
    "faseAtual": "Redação Final",
-   "prazoComissao": "2026-12-10",
+   "prazoComissao": "2026-12-11",
    "quorum": "2/3 dos membros da Câmara (28)",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -2236,9 +2260,15 @@
      "orgao": null,
      "documento": "Decisão e ocorrências: aprovados os artigos 1º ao 3º do projeto em votação destacada e o projeto na parte não destacada (art. 4º). Segundo turno",
      "data": "2026-11-09"
+    },
+    {
+     "fase": "Redação Final",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner Augusto - Redação final",
+     "data": "2026-11-16"
     }
    ],
-   "assinaturaEventos": "d8b9e22a7ab7a12982f753d2d2a1994b3deb8ca8",
+   "assinaturaEventos": "9fa1e3c2284121cff5e03b935b751b757f82ccfe",
    "emTramitacao": true
   },
   {
@@ -3409,7 +3439,7 @@
    "publicadoEm": "2025-07-24",
    "estado": "TRAMITANDO",
    "situacao": "Em redação final",
-   "comissaoAtual": null,
+   "comissaoAtual": "Comissão de Legislação e Justiça",
    "faseAtual": "Redação Final",
    "prazoComissao": "2026-12-04",
    "quorum": "2/3 dos membros da Câmara (28)",
@@ -3700,9 +3730,15 @@
      "orgao": null,
      "documento": "Decisão e ocorrências: Aprovados o projeto na parte não destacada (art. 3º), os artigos 1º e 2º do projeto em votação destacada, e as emendas aditivas nº 2 e nº 3. Prejudicada a emenda nº 1. Segundo turno.",
      "data": "2026-11-05"
+    },
+    {
+     "fase": "Redação Final",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner Augusto - Redação final",
+     "data": "2026-11-16"
     }
    ],
-   "assinaturaEventos": "db3103958932c5db3b7c16a84d7a94df3686fccd",
+   "assinaturaEventos": "870e81e3eabc97ed606e4897ef09db792022eb4e",
    "emTramitacao": true
   },
   {
