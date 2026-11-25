@@ -1,14 +1,234 @@
 {
  "versao": 1,
- "geradoEm": "2026-11-16T19:37:01Z",
+ "geradoEm": "2026-11-25T15:23:14Z",
  "fonte": "https://www.cmbh.mg.gov.br",
  "totais": {
-  "tramitando": 28,
+  "tramitando": 32,
   "operacoesCredito": 17,
-  "fichas": 40
+  "fichas": 44
  },
  "erros": [],
  "projetos": [
+  {
+   "idCamara": "2c907f76a10b76cd01a1d6129cce3be7",
+   "chave": "PL 995/2026",
+   "numero": 995,
+   "ano": 2026,
+   "ementa": "Altera a Lei n° 8.502, de 6 de março de 2003, que dispõe sobre a política municipal de atendimento dos direitos da criança e do adolescente e dá outras providências.",
+   "assunto": "Alteração, criança, adolescente, política, atendimento, direito, feriado, regime de plantão, conselho tutelar, [ Lei nº 8.502. Lei nº 8502. Período noturno. Noite. Final de semana ].",
+   "autoria": "Executivo: Mensagem nº 38, de 13/11/2026",
+   "mensagem": "38/2026",
+   "publicadoEm": "2026-11-25",
+   "estado": "TRAMITANDO",
+   "situacao": "Primeiro turno",
+   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "faseAtual": "Apreciação pela Comissão/Mesa",
+   "prazoComissao": "2026-12-21",
+   "quorum": "maioria dos presentes",
+   "emendas": "Não há",
+   "operacaoCredito": false,
+   "leiResultante": null,
+   "sancionadaEm": null,
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/995/2026",
+   "eventos": [
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Inicial",
+     "data": "2026-11-25"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Instrução",
+     "data": "2026-11-25"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Despacho de recebimento",
+     "data": "2026-11-25"
+    }
+   ],
+   "assinaturaEventos": "185e0be717f3ef214ba0bc19d69ee239db4ddb2d",
+   "emTramitacao": true
+  },
+  {
+   "idCamara": "2c907f76a10b76cd01a1d090fed1306d",
+   "chave": "PL 993/2026",
+   "numero": 993,
+   "ano": 2026,
+   "ementa": "Altera a classificação quanto à permissividade de usos das vias que menciona.",
+   "assunto": "Alteração, classificação, permissividade, sistema viário, ocupação e uso do solo, via de caráter misto, via preferencialmente residencial, logradouro, [ Rua Caetano Vasconcellos. Bairro Vitória. Bairro Oficial Vitória Rua Guaíra. Rua Teotônio Maciel. Rua Alexandre Siqueira. Bairro Caiçaras. Rua Matias Aires. Rua Teófilo Dias. Rua Farias Brito. Bairro Santa Maria. Pampulha de grau II – PEP II. Pampulha de grau IV – PEP IV. Avenida Fleming. Rua Estanislau Fernandes. Avenida Novara. Bairro Bandeirantes. Permissividade Específica Mangabeiras de grau I – PEM I. Permissividade Específica Mangabeiras de grau II – PEM II. Avenida Agulhas Negras. Praça da Bandeira. Rua Itacambira. Bairro Mangabeiras. Portal de serviços da Prefeitura de Belo Horizonte. Lei nº 11181. Lei nº 11.181 ].",
+   "autoria": "Executivo: Mensagem nº 36, de 11/11/2026",
+   "mensagem": "36/2026",
+   "publicadoEm": "2026-11-25",
+   "estado": "TRAMITANDO",
+   "situacao": "Primeiro turno",
+   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "faseAtual": "Apreciação pela Comissão/Mesa",
+   "prazoComissao": "2026-12-21",
+   "quorum": "2/3 dos membros da Câmara (28)",
+   "emendas": "Não há",
+   "operacaoCredito": false,
+   "leiResultante": null,
+   "sancionadaEm": null,
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/993/2026",
+   "eventos": [
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Inicial",
+     "data": "2026-11-25"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Instrução",
+     "data": "2026-11-25"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Despacho de recebimento",
+     "data": "2026-11-25"
+    }
+   ],
+   "assinaturaEventos": "185e0be717f3ef214ba0bc19d69ee239db4ddb2d",
+   "emTramitacao": true
+  },
+  {
+   "idCamara": "2c907f76a10b76cd01a1d08dc3bf3066",
+   "chave": "PL 992/2026",
+   "numero": 992,
+   "ano": 2026,
+   "ementa": "Altera a Lei nº 11.386, de 4 de agosto de 2022, que “Altera o nome do Parque das Mangabeiras, localizado no Bairro Mangabeiras, e a Lei nº 11.673, de 13 de março de 2024, que consolida a legislação que institui parques públicos do Município”.",
+   "assunto": "Alteração, denominação, logradouro, próprio público, reserva ecológica, espaço público, área verde, área, [ Lei nº 11.386. Lei nº 11386. Lei nº 11.673. Lei nº 11673. Parque das Mangabeiras – Maurício Campos. Bairro Mangabeiras. Parque Natural Municipal das Mangabeiras – Mauricio Campos. Mirante do Mangabeiras].",
+   "autoria": "Executivo: Mensagem nº 37, de 11/11/2026",
+   "mensagem": "37/2026",
+   "publicadoEm": "2026-11-25",
+   "estado": "TRAMITANDO",
+   "situacao": "Turno único",
+   "comissaoAtual": null,
+   "faseAtual": "Aguarda emenda - 5 dias úteis",
+   "prazoComissao": null,
+   "quorum": "maioria dos presentes",
+   "emendas": "Não há",
+   "operacaoCredito": false,
+   "leiResultante": null,
+   "sancionadaEm": null,
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/992/2026",
+   "eventos": [
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Inicial",
+     "data": "2026-11-25"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Instrução",
+     "data": "2026-11-25"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Despacho de recebimento",
+     "data": "2026-11-25"
+    }
+   ],
+   "assinaturaEventos": "185e0be717f3ef214ba0bc19d69ee239db4ddb2d",
+   "emTramitacao": true
+  },
+  {
+   "idCamara": "2c907f76a10b76cd01a1c6d6d0271fdb",
+   "chave": "PL 984/2026",
+   "numero": 984,
+   "ano": 2026,
+   "ementa": "Autoriza alienação de áreas urbanas remanescentes ou resultantes de obras públicas inferiores a 125m², de propriedade do Município.",
+   "assunto": "Autorização, alienação, área, área urbana, área remanescente, obra, propriedade, bem público, patrimônio, [ Inferior. 125 m². Cento e vinte e cinco metros quadrados ].",
+   "autoria": "Executivo: Mensagem nº 34, de 10/11/2026",
+   "mensagem": "34/2026",
+   "publicadoEm": "2026-11-17",
+   "estado": "TRAMITANDO",
+   "situacao": "Primeiro turno",
+   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "faseAtual": "Apreciação pela Comissão/Mesa",
+   "prazoComissao": "2026-12-14",
+   "quorum": "2/3 dos membros da Câmara (28)",
+   "emendas": "Não há",
+   "operacaoCredito": false,
+   "leiResultante": null,
+   "sancionadaEm": null,
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/984/2026",
+   "eventos": [
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Inicial",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Instrução",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Despacho de recebimento",
+     "data": "2026-11-17"
+    }
+   ],
+   "assinaturaEventos": "37c916f607a6dc526bd24903881bb6f19ff1a117",
+   "emTramitacao": true
+  },
+  {
+   "idCamara": "2c907f76a10b76cd01a1c6d028291f9e",
+   "chave": "PL 983/2026",
+   "numero": 983,
+   "ano": 2026,
+   "ementa": "Altera as Leis nº 7.169, de 30 de agosto de 1996 e n° 7.645, de 12 de fevereiro de 1999.",
+   "assunto": "Alteração, cessão, tempo de serviço, exercício, progressão, carreira, servidor, período, remuneração, previdência, vantagens, direito, indenização, afastamento, verba indenizatória, valor, cargo efetivo, [ Comitê Gestor do Imposto sobre Bens e Serviços – CGIBS. Administração Tributária. Agente Fazendário. Analista Fazendário. Auditor Fiscal de Tributos Municipais. Auditor Técnico de Tributos Municipais. Técnico Fazendário de Nível Médio. Tesoureiro. Ajuda Custo de Despesas de Atividade Fiscal – Acaf ].",
+   "autoria": "Executivo: Mensagem nº 35, de 10/11/2026",
+   "mensagem": "35/2026",
+   "publicadoEm": "2026-11-17",
+   "estado": "TRAMITANDO",
+   "situacao": "Primeiro turno",
+   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "faseAtual": "Apreciação pela Comissão/Mesa",
+   "prazoComissao": "2026-12-14",
+   "quorum": "maioria dos membros da Câmara (21)",
+   "emendas": "Não há",
+   "operacaoCredito": false,
+   "leiResultante": null,
+   "sancionadaEm": null,
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/983/2026",
+   "eventos": [
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Inicial",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Instrução",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Autuação",
+     "orgao": null,
+     "documento": "Despacho de recebimento",
+     "data": "2026-11-17"
+    }
+   ],
+   "assinaturaEventos": "37c916f607a6dc526bd24903881bb6f19ff1a117",
+   "emTramitacao": true
+  },
   {
    "idCamara": "2c907f76a10b76cd01a16488e97c4c13",
    "chave": "PL 971/2026",
@@ -23,7 +243,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Legislação e Justiça",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-25",
+   "prazoComissao": "2026-12-21",
    "quorum": "2/3 dos membros da Câmara (28)",
    "emendas": "Não há",
    "operacaoCredito": false,
@@ -73,7 +293,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Legislação e Justiça",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-25",
+   "prazoComissao": "2026-12-21",
    "quorum": "2/3 dos membros da Câmara (28)",
    "emendas": "Não há",
    "operacaoCredito": false,
@@ -123,7 +343,7 @@
    "situacao": "Turno único",
    "comissaoAtual": "Comissão de Orçamento e Finanças Públicas",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-26",
+   "prazoComissao": "2026-12-22",
    "quorum": "maioria dos presentes",
    "emendas": "Exibir emendas relacionadas",
    "operacaoCredito": false,
@@ -203,7 +423,7 @@
    "situacao": "Turno único",
    "comissaoAtual": "Comissão de Orçamento e Finanças Públicas",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-26",
+   "prazoComissao": "2026-12-22",
    "quorum": "maioria dos presentes",
    "emendas": "Exibir emendas relacionadas",
    "operacaoCredito": false,
@@ -260,13 +480,19 @@
      "data": "2026-11-06"
     },
     {
+     "fase": "Aguarda emenda - 10 dias",
+     "orgao": null,
+     "documento": "Emendas apresentadas. Republicação para retificação do documento",
+     "data": "2026-11-23"
+    },
+    {
      "fase": "Apreciação pela Comissão/Mesa",
      "orgao": "Comissão de Orçamento e Finanças Públicas",
      "documento": "Comissão de Orçamento e Finanças - Designação de relatoria: vereadora Marilda Portela e vereador Diego Sanches - Turno único",
      "data": "2026-11-11"
     }
    ],
-   "assinaturaEventos": "e56de6f57b3e79d461680e2c02c191c4e2e00d40",
+   "assinaturaEventos": "a9cbd790fe12434c4b6fbce878c1bc3e42da2feb",
    "emTramitacao": true
   },
   {
@@ -383,7 +609,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-12-16",
+   "prazoComissao": "2026-12-23",
    "quorum": "2/3 dos membros da Câmara (28)",
    "emendas": "Não há",
    "operacaoCredito": false,
@@ -468,9 +694,21 @@
      "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
      "documento": "Comissão de Meio Ambiente - Vereadora Luiza Dulci - Aprovação da proposta de diligência - Primeiro turno",
      "data": "2026-11-16"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "documento": "Ofs 14003 a 14006/26. Encaminhamento de Proposta de Diligência",
+     "data": "2026-11-24"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "documento": "Comissão de Meio Ambiente - Resposta de diligência - Primeiro turno",
+     "data": "2026-11-24"
     }
    ],
-   "assinaturaEventos": "dae65f2897e3312977fb2935f431c291f3df68e4",
+   "assinaturaEventos": "5c3bb82be468e4436b9a1421a4ee32ea997130df",
    "emTramitacao": true
   },
   {
@@ -485,11 +723,11 @@
    "publicadoEm": "2026-09-28",
    "estado": "TRAMITANDO",
    "situacao": "Primeiro turno",
-   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "comissaoAtual": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-13",
+   "prazoComissao": "2026-12-15",
    "quorum": "maioria dos presentes",
-   "emendas": "Não há",
+   "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
    "leiResultante": null,
    "sancionadaEm": null,
@@ -524,9 +762,21 @@
      "orgao": "Comissão de Legislação e Justiça",
      "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Parecer inicial",
      "data": "2026-11-16"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Aprovação do parecer - Primeiro turno",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "documento": "Comissão de Meio Ambiente - Designação de relatoria: vereador Wanderley Porto - Primeiro turno",
+     "data": "2026-11-23"
     }
    ],
-   "assinaturaEventos": "a276fec1c449b52c56757562ee3d2885fac70aaf",
+   "assinaturaEventos": "2801c67e9143a5cb58d5e093261f3abefe7ed610",
    "emTramitacao": true
   },
   {
@@ -541,11 +791,11 @@
    "publicadoEm": "2026-09-11",
    "estado": "TRAMITANDO",
    "situacao": "Primeiro turno",
-   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "comissaoAtual": "Comissão de Administração Pública e Segurança Pública",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-17",
+   "prazoComissao": "2026-12-21",
    "quorum": "2/3 dos membros da Câmara (28)",
-   "emendas": "Não há",
+   "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
    "leiResultante": null,
    "sancionadaEm": null,
@@ -610,9 +860,21 @@
      "orgao": "Comissão de Legislação e Justiça",
      "documento": "Comissão de Legislação e Justiça - Retorno de diligência à relatoria - Primeiro turno",
      "data": "2026-11-12"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Parecer inicial",
+     "data": "2026-11-23"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Aprovação do parecer - Primeiro turno",
+     "data": "2026-11-24"
     }
    ],
-   "assinaturaEventos": "4a9ac3468bee9a8dc0a2d631a126b8a9c7391c6e",
+   "assinaturaEventos": "6c570755806316bcf34f386a65af4f6370640fbc",
    "emTramitacao": true
   },
   {
@@ -627,11 +889,11 @@
    "publicadoEm": "2026-09-11",
    "estado": "TRAMITANDO",
    "situacao": "Primeiro turno",
-   "comissaoAtual": "Comissão de Legislação e Justiça",
+   "comissaoAtual": "Comissão de Orçamento e Finanças Públicas",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-16",
+   "prazoComissao": "2026-12-15",
    "quorum": "2/3 dos membros da Câmara (28)",
-   "emendas": "Não há",
+   "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": true,
    "leiResultante": null,
    "sancionadaEm": null,
@@ -702,9 +964,21 @@
      "orgao": "Comissão de Legislação e Justiça",
      "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Parecer inicial",
      "data": "2026-11-16"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Legislação e Justiça",
+     "documento": "Comissão de Legislação e Justiça - Aprovação do parecer - Primeiro turno",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Orçamento e Finanças Públicas",
+     "documento": "Comissão de Orçamento e Finanças - Designação de relatoria: vereador Diego Sanches - Primeiro turno",
+     "data": "2026-11-18"
     }
    ],
-   "assinaturaEventos": "27b9948937c7d12e72a441f47958f2d0709a0898",
+   "assinaturaEventos": "37dfa665abee4969f2a10785bd3846bb49527343",
    "emTramitacao": true
   },
   {
@@ -721,7 +995,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-12-10",
+   "prazoComissao": "2026-12-18",
    "quorum": "maioria dos presentes",
    "emendas": "Não há",
    "operacaoCredito": false,
@@ -794,9 +1068,15 @@
      "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
      "documento": "Comissão de Meio Ambiente - Vereadora Luiza Dulci - Aprovação da proposta de diligência - Primeiro turno",
      "data": "2026-11-09"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "documento": "Ofs 13611, 13612 e 13613-26. Encaminhamento da proposta de diligência",
+     "data": "2026-11-18"
     }
    ],
-   "assinaturaEventos": "485679a38e98664cd5e453a0458bf701b9fb2f4b",
+   "assinaturaEventos": "9b47c6306b3961fd070bb3f0cf6871dbd04b07bb",
    "emTramitacao": true
   },
   {
@@ -1014,9 +1294,15 @@
      "orgao": "Comissão de Legislação e Justiça",
      "documento": "Comissão de Legislação e Justiça - Aprovação do parecer - Primeiro turno",
      "data": "2026-10-27"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "documento": "Comissão de Mobilidade Urbana - Designação de relatoria: vereador Braulio Lara - Primeiro turno",
+     "data": "2026-11-19"
     }
    ],
-   "assinaturaEventos": "d7d359ea4f5c64eff5b988f7371438eb00b279a5",
+   "assinaturaEventos": "ef375ac6f82205bda581e280b2a530e7e0169ad6",
    "emTramitacao": true
   },
   {
@@ -1033,7 +1319,7 @@
    "situacao": "Primeiro turno",
    "comissaoAtual": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-27",
+   "prazoComissao": "2027-02-01",
    "quorum": "maioria dos membros da Câmara (21)",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -1130,9 +1416,21 @@
      "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
      "documento": "Comissão de Direitos Humanos - Designação de relatoria: vereador Pedro Patrus - Primeiro turno",
      "data": "2026-11-09"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "documento": "Comissão de Direitos Humanos - Relatoria: vereador Pedro Patrus - Proposta de diligência inicial",
+     "data": "2026-11-23"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "documento": "Comissão de Direitos Humanos - Aprovação da proposta de diligência - Primeiro turno",
+     "data": "2026-11-24"
     }
    ],
-   "assinaturaEventos": "0948e671049c07a43083bb20b6dfbd528581b631",
+   "assinaturaEventos": "5aa409c27f253a3c2c4a6c2cb06ef1cb2638b7be",
    "emTramitacao": true
   },
   {
@@ -1147,9 +1445,9 @@
    "publicadoEm": "2026-07-06",
    "estado": "TRAMITANDO",
    "situacao": "Primeiro turno",
-   "comissaoAtual": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+   "comissaoAtual": "Comissão de Administração Pública e Segurança Pública",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-16",
+   "prazoComissao": "2026-12-21",
    "quorum": "maioria dos presentes",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -1246,9 +1544,21 @@
      "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
      "documento": "Comissão de Direitos Humanos - Resposta de diligência - Primeiro turno",
      "data": "2026-10-19"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "documento": "Comissão de Direitos Humanos - Retorno de diligência à relatoria - Primeiro turno",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "documento": "Comissão de Direitos Humanos - Aprovação do parecer - Primeiro turno",
+     "data": "2026-11-24"
     }
    ],
-   "assinaturaEventos": "b33cab7ae24a27dcd50159aaa1f0415dd0208873",
+   "assinaturaEventos": "6ae412e535af805b6264d72d9efcb7e63be28f4f",
    "emTramitacao": true
   },
   {
@@ -1265,7 +1575,7 @@
    "situacao": "Segundo turno",
    "comissaoAtual": "Comissão de Legislação e Justiça",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-11-17",
+   "prazoComissao": "2026-12-14",
    "quorum": "maioria dos presentes",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -1367,9 +1677,9 @@
    "publicadoEm": "2026-04-29",
    "estado": "TRAMITANDO",
    "situacao": "Segundo turno",
-   "comissaoAtual": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+   "comissaoAtual": "Comissão de Administração Pública e Segurança Pública",
    "faseAtual": "Apreciação pela Comissão/Mesa",
-   "prazoComissao": "2026-12-02",
+   "prazoComissao": "2026-12-16",
    "quorum": "maioria dos presentes",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -1520,9 +1830,21 @@
      "orgao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
      "documento": "Comissão de Educação - Designação de relatoria: vereadora Professora Marli - Segundo turno",
      "data": "2026-11-11"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "documento": "Comissão de Educação - Relatoria: vereadora Professora Marli - Parecer inicial",
+     "data": "2026-11-17"
+    },
+    {
+     "fase": "Apreciação pela Comissão/Mesa",
+     "orgao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "documento": "Comissão de Educação - Aprovação do parecer - Segundo turno",
+     "data": "2026-11-18"
     }
    ],
-   "assinaturaEventos": "e2bb395625439838c6f6abffc3090fbd9398fecb",
+   "assinaturaEventos": "475c6e898bc63c0c7b31b626828d66b801f970d8",
    "emTramitacao": true
   },
   {
@@ -1684,9 +2006,15 @@
      "orgao": null,
      "documento": "Decisão e ocorrências: aprovados os artigos 1º e 2º em votação destacada e o projeto na parte não destacada (artigo 3º). Primeiro Turno. Concluso em segundo turno",
      "data": "2026-11-09"
+    },
+    {
+     "fase": "Apreciação em Plenário",
+     "orgao": null,
+     "documento": "Retorno à tramitação",
+     "data": "2026-11-17"
     }
    ],
-   "assinaturaEventos": "a13a0fe1538d48c04a6322d219147bcf235f3616",
+   "assinaturaEventos": "ba277099eaf45a175064b17a91189af10921ef87",
    "emTramitacao": true
   },
   {
@@ -1702,8 +2030,8 @@
    "estado": "TRAMITANDO",
    "situacao": "Em redação final",
    "comissaoAtual": null,
-   "faseAtual": "Procedimentos internos de redação",
-   "prazoComissao": null,
+   "faseAtual": "Redação Final",
+   "prazoComissao": "2026-12-17",
    "quorum": "maioria dos presentes",
    "emendas": "Visualizar emendas relacionadas",
    "operacaoCredito": false,
@@ -3129,302 +3457,6 @@
     }
    ],
    "assinaturaEventos": "712a603ead1f12f388e43932ddd18733336747ad",
-   "emTramitacao": true
-  },
-  {
-   "idCamara": "2c907f769817cd11019832cd66f62165",
-   "chave": "PL 428/2025",
-   "numero": 428,
-   "ano": 2025,
-   "ementa": "Altera a Lei nº 11.216, de 4 de fevereiro de 2020, que \"Dispõe sobre a aplicação dos instrumentos de política urbana previstos nos Capítulos II, III e IV do Título II da Lei nº 11.181, de 8 de agosto de 2019, que aprova o Plano Diretor do Município de Belo Horizonte.\".",
-   "assunto": "Alteração, aplicação, instrumento, política urbana, desapropriação, plano urbanístico, execução, valor, imóvel, conservação, preservação, recuperação, restauração, monumento, patrimônio cultural, bem imaterial, tombamento, prevenção, dano, segurança, patrimônio, edificação, habitação, delegação de serviço público, requisito, decreto, declaração, utilidade pública, contrato, indenização, receita, comércio, exploração, remuneração, ressarcimento, despesa, responsabilidade, concessão, concessionária,  autorização, arrendamento, ferrovia, requerimento, pessoa jurídica, credenciamento, regularização fundiária, destinação, hasta pública, objetivo, melhoramento, edital, vedação, avaliação, dever, prazo, infração, multa, pagamento, depósito, contratação, ação judicial, registro, débito, administração direta, administração indireta, hipoteca, caução, propriedade, escritura, direito, [ Lei nº 11.216. Lei nº 11216. Plano Diretor. Lei nº 11.181. Lei nº 11181. Desapropriação urbanística. Regularização fundiária de interesse social. Programa habitacional de interesse social. Permissionário. Autorizatário. Arrendatário. Operador ferroviário. Sociedade de propósito específico. Aproveitamento compulsório. Seguro garantia. Fiança bancária. Promessa de compra e venda. Arbitragem. Câmara arbitral. Advocacia-Geral da União. Advocacia-Geral do Estado de Minas Gerais ].",
-   "autoria": "Executivo: Mensagem nº 19, de 22/07/2025",
-   "mensagem": "19/2025",
-   "publicadoEm": "2025-08-06",
-   "estado": "TRAMITANDO",
-   "situacao": "Proposição de Lei",
-   "comissaoAtual": null,
-   "faseAtual": "Aguarda Sanção/Veto",
-   "prazoComissao": null,
-   "quorum": "2/3 dos membros da Câmara (28)",
-   "emendas": "Visualizar emendas relacionadas",
-   "operacaoCredito": false,
-   "leiResultante": null,
-   "sancionadaEm": null,
-   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/428/2025",
-   "eventos": [
-    {
-     "fase": "Autuação",
-     "orgao": null,
-     "documento": "Inicial",
-     "data": "2025-08-06"
-    },
-    {
-     "fase": "Autuação",
-     "orgao": null,
-     "documento": "Instrução",
-     "data": "2025-08-06"
-    },
-    {
-     "fase": "Autuação",
-     "orgao": null,
-     "documento": "Despacho de recebimento",
-     "data": "2025-08-06"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner Augusto. Primeiro turno",
-     "data": "2025-08-13"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Parecer inicial",
-     "data": "2025-09-01"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça. Aprovação do parecer. Primeiro turno",
-     "data": "2025-09-02"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
-     "documento": "Comissão de Meio Ambiente - Designação de relatoria: vereador Wanderley Porto. Primeiro turno",
-     "data": "2025-09-03"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
-     "documento": "Comissão de Meio Ambiente - Relatoria: vereador Wanderley Porto - Parecer inicial",
-     "data": "2025-09-05"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
-     "documento": "Comissão de Meio Ambiente. Aprovação do parecer. Primeiro turno",
-     "data": "2025-09-09"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Designação de relatoria: vereador Pedro Patrus - Primeiro turno",
-     "data": "2025-09-10"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Relatoria: vereador Pedro Patrus -  Proposta de diligência inicial",
-     "data": "2025-10-24"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos. Aprovação da proposta de diligência. Primeiro turno",
-     "data": "2025-10-28"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Ofs 15571 a 15581-25. Encaminhamento de proposta de diligência",
-     "data": "2025-11-03"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos. Resposta de diligência. Primeiro turno",
-     "data": "2025-11-10"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos. Segunda resposta de diligência. Primeiro turno",
-     "data": "2025-11-11"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos. Terceira resposta de diligência. Primeiro turno",
-     "data": "2025-11-26"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Retorno de diligência à relatoria. Primeiro turno",
-     "data": "2025-12-04"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Relatoria: vereador Pedro Patrus - Parecer inicial",
-     "data": "2025-12-15"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos. Aprovação do parecer. Primeiro turno",
-     "data": "2025-12-16"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Administração Pública e Segurança Pública",
-     "documento": "Comissão de Administração Pública - Designação de relatoria: vereador Wagner Ferreira. Primeiro turno",
-     "data": "2025-12-16"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Administração Pública e Segurança Pública",
-     "documento": "Comissão de Administração Pública. Aprovação do parecer. Concluso em Primeiro turno",
-     "data": "2025-12-17"
-    },
-    {
-     "fase": "Apreciação em Plenário",
-     "orgao": null,
-     "documento": "Decisão e ocorrências: aprovados o projeto na parte não destacada (art. 2º), o caput do art. 1º e arts. 6º-A ao 6º-D propostos pelo art. 1º do projeto em votação destacada. Primeiro turno",
-     "data": "2026-02-12"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner Augusto - Segundo turno",
-     "data": "2026-03-18"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Aprovação do parecer - Segundo turno",
-     "data": "2026-04-28"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
-     "documento": "Comissão de Meio Ambiente - Designação de relatoria: vereador Wanderley Porto - Segundo turno",
-     "data": "2026-04-29"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
-     "documento": "Comissão de Meio Ambiente - Relatoria: vereador Wanderley Porto - Parecer inicial",
-     "data": "2026-04-30"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
-     "documento": "Comissão de Meio Ambiente - Aprovação do parecer - Segundo turno",
-     "data": "2026-05-04"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Designação de relatoria: vereador Pedro Patrus - Segundo turno",
-     "data": "2026-05-06"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Relatoria: vereador Pedro Patrus - Proposta de diligência inicial",
-     "data": "2026-06-22"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Aprovação da proposta de diligência - Segundo turno",
-     "data": "2026-06-23"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Ofício de ciência do pedido de diligência - Segundo turno",
-     "data": "2026-07-01"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Ofs 8222, 8223, 8224, 8225, 8226, 8227, 8228, 8229, 8230, 8231 e 8232-26. Encaminhamento de Proposta de Diligência",
-     "data": "2026-07-06"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Resposta de diligência - Segundo turno",
-     "data": "2026-07-14"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Resposta de diligência - 2º turno",
-     "data": "2026-07-31"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Retorno de diligência à relatoria - Segundo turno",
-     "data": "2026-08-04"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Relatoria: vereador Pedro Patrus - Parecer inicial",
-     "data": "2026-08-10"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
-     "documento": "Comissão de Direitos Humanos - Aprovação do parecer - Segundo turno",
-     "data": "2026-08-11"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Administração Pública e Segurança Pública",
-     "documento": "Comissão de Administração Pública - Designação de relatoria: vereador Sargento Jalyson - Segundo turno",
-     "data": "2026-08-21"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Administração Pública e Segurança Pública",
-     "documento": "Comissão de Administração Pública - Relatoria: vereador Sargento Jalyson - Parecer inicial",
-     "data": "2026-09-01"
-    },
-    {
-     "fase": "Apreciação pela Comissão/Mesa",
-     "orgao": "Comissão de Administração Pública e Segurança Pública",
-     "documento": "Comissão de Administração Pública - Aprovação do parecer - Concluso em segundo turno",
-     "data": "2026-09-02"
-    },
-    {
-     "fase": "Apreciação em Plenário",
-     "orgao": null,
-     "documento": "Decisão e ocorrências: Aprovados: as emendas nºs 4, 5, 8, 9 e 13, o projeto na parte não destacada (art. 2º) e o art. 1º do projeto em votação destacada. Prejudicadas: a Emenda nº 10, a Subemenda nº 1 à Emenda nº 8, e as Emendas nºs 1, 2, 12 e 14. Rejeitadas as Emendas nºs 3, 6, 7, 11 e 15. Segundo Turno",
-     "data": "2026-10-15"
-    },
-    {
-     "fase": "Redação Final",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Designação de relatoria: vereador Uner augusto - Redação final",
-     "data": "2026-10-26"
-    },
-    {
-     "fase": "Redação Final",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Relatoria: vereador Uner Augusto - Proposta de redação final inicial",
-     "data": "2026-10-26"
-    },
-    {
-     "fase": "Redação Final",
-     "orgao": "Comissão de Legislação e Justiça",
-     "documento": "Comissão de Legislação e Justiça - Aprovação da proposta de redação final - Abertura de prazo para emenda de redação",
-     "data": "2026-10-27"
-    },
-    {
-     "fase": "Proposição de Lei",
-     "orgao": null,
-     "documento": "Proposição de lei nº 221/2026, enviada ao prefeito",
-     "data": "2026-11-06"
-    }
-   ],
-   "assinaturaEventos": "82de6cff5c0b6caf79e23857baf9d567965d8139",
    "emTramitacao": true
   },
   {
