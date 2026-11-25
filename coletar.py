@@ -1,7 +1,7 @@
 """
 Coleta os projetos de lei do Executivo na CMBH e grava dados/projetos-de-lei.json.
 
-    python coletar.py            # coleta, valida e grava se mudou
+    python coletar.py            # coleta, valida e grava
     python coletar.py --sem-ia   # pula o resumo por IA
 
 Sai com código 1 (sem gravar) quando a coleta é suspeita; ver coletor/validar.py.
@@ -40,8 +40,7 @@ def main() -> int:
             if antes.get(p["idCamara"]):
                 p["resumoIA"] = antes[p["idCamara"]]
     if anterior and sem_data(anterior) == sem_data(novo):
-        print("Sem mudanças na CMBH; JSON mantido.")
-        return 0
+        print("Sem mudanças na CMBH; só a data da coleta muda.")
     SAIDA.parent.mkdir(parents=True, exist_ok=True)
     SAIDA.write_text(json.dumps(novo, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     t = novo["totais"]

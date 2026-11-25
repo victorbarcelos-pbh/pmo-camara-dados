@@ -6,7 +6,7 @@ monitor de projetos de lei da Secretaria Municipal de Governo (SMGO) no app Proj
 Transformadores da PBH.
 
 - **Saída:** [`dados/projetos-de-lei.json`](dados/projetos-de-lei.json), lido pelo app.
-- **Quando:** GitHub Actions nos dias 1, 2, 15 e 16 de cada mês (6h de Brasília), ou manualmente
+- **Quando:** GitHub Actions toda segunda-feira de manhã, ou manualmente
   ("Run workflow").
 - **Como:** HTTP simples na página de pesquisa de proposições da CMBH (sem navegador), com uma
   requisição a cada 2 s e repetição com espera crescente. Ver `coletor/cmbh.py`.

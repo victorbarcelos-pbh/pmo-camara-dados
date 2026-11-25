@@ -2,7 +2,8 @@ name: Coletar projetos de lei (CMBH)
 
 on:
   schedule:
-    - cron: "0 9 1,2,15,16 * *"   # 6h em Brasília, dias 1, 2, 15 e 16
+    # Segunda, 0h17 em Brasília: o GitHub atrasa o agendamento em 7 a 10 horas.
+    - cron: "17 3 * * 1"
   workflow_dispatch: {}
 
 permissions:
